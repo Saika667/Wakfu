@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Wakfu/static/css/main.cf973e0f.css",
+    "main.js": "/Wakfu/static/js/main.4249825f.js",
+    "static/js/787.edc493af.chunk.js": "/Wakfu/static/js/787.edc493af.chunk.js",
+    "static/media/token.png": "/Wakfu/static/media/token.29f0284d8cb56213e849.png",
+    "static/media/hidden.png": "/Wakfu/static/media/hidden.853afb2de5099e79aa28.png",
+    "static/media/visible.png": "/Wakfu/static/media/visible.ab4ec033dce77f1b11f3.png",
+    "index.html": "/Wakfu/index.html",
+    "main.cf973e0f.css.map": "/Wakfu/static/css/main.cf973e0f.css.map",
+    "main.4249825f.js.map": "/Wakfu/static/js/main.4249825f.js.map",
+    "787.edc493af.chunk.js.map": "/Wakfu/static/js/787.edc493af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf973e0f.css",
+    "static/js/main.4249825f.js"
+  ]
+}
