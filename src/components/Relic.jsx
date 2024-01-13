@@ -49,8 +49,8 @@ function Relic({ relic, mission }) {
             </div>
             <div className={`overflow-hidden ${isVisible ? 'max-h-40' : 'max-h-0'} transition-[max-height] duration-500`}>
                 <div className={`flex h-2 ${theme.counterBarTotal}`}>
-                    <div className={`shard h-2 ${theme.counterBarShard}`} style={{width: `${Math.min(shards, 100)}%`}}></div>
-                    <div className={`token h-2 ${theme.counterBarToken}`} style={{width: `${shardsWithTokensPercentage}%`}}></div>
+                    <div className={`shard h-2 transition-width duration-500 ${theme.counterBarShard}`} style={{width: `${Math.min(shards, 100)}%`}}></div>
+                    <div className={`token h-2 transition-width duration-500 ${theme.counterBarToken}`} style={{width: `${shardsWithTokensPercentage}%`}}></div>
                 </div>
                 <div className="flex justify-between items-center mt-1.5">
                     <div className="flex">
